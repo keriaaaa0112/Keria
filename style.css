@@ -5,3 +5,13 @@ h1{
 td{
   text-aglin: center;
 }
+.tieude {
+  color: tomato;
+  front-size: 25pt;
+  top-margin: 18pt;
+}
+.noidung {
+  color: black;
+  front-size: 15pt;
+  top-margin: 6pt;
+}
