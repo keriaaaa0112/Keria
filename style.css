@@ -16,7 +16,7 @@
   backgrounf-color: white;
 }
 .content iframe{
-  flex: 1
+  flex: 1;
   border: none;
   width: 100%;
   height: 100%;
