@@ -17,7 +17,7 @@
 .menu a{
   padding: 15px 20px;
 }
-.menu hover{
+.menu a: hover{
   background-color: white;
   color: lightgray;
 }
