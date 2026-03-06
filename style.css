@@ -5,7 +5,8 @@
 }
 .header{
   flex: 15%;
-  background-color: lightgray;
+  background-color: url("Images/BKC banner.prg") center / 100%;
+  aspect-ratio: 6/1;
 }
 .menu{
   flex: 5%
