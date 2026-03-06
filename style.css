@@ -10,7 +10,7 @@
 }
 .menu{
   flex: 5%;
-  background-color: lightblue;
+  background-color: darkblue;
   color: white;
   display: flex;
 }
@@ -23,7 +23,7 @@
 }
 .content{
   flex: 70%;
-  backgrounf-color: white;
+  backgrounf-color: lightblue;
 }
 .content iframe{
   flex: 1;
