@@ -5,11 +5,11 @@
 }
 .header{
   flex: 15%;
-  background-color: url("Image/Gemini_Generated_Image_aowvy3aowvy3aowv.png") center / 100%;
+  background: url("Image/Gemini_Generated_Image_aowvy3aowvy3aowv.png") center / 100%;
   aspect-ratio: 6/1;
 }
 .menu{
-  flex: 5%
+  flex: 5%;
   background-color: lightblue;
   color: white;
   display: flex;
