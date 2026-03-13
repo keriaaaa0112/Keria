@@ -10,7 +10,7 @@
 }
 .menu{
   flex: 5%;
-  background-color: darkblue;
+  background-color: lightblue;
   color: white;
   display: flex;
 }
